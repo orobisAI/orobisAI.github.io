@@ -54,10 +54,10 @@ body{
 }
 
 .title {
-    position: absolute;
+    position: fixed;
     display: flex;
-    top: 35%;
-    left: 35%;
+    top: 40vh;
+    left: 10vw;
     justify-content: center;
 }
 
@@ -70,8 +70,8 @@ body{
 
 
 h1 {
-    font-size: 150px;
+    font-size: 5vw;
     color: white;
     text-align: center;
-
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
